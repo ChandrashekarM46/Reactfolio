@@ -17,7 +17,7 @@ const Home = () => {
           <p className="text-gray-500 py-4 max-w-md">
             I am a Front end developer interested in building and desgining web applications.
             Currently, I love to work on web application using technologies like HTML, CSS, Javascript
-            React, Tailwind.
+            React, Tailwind CSS.
           </p>
 
           <div>
