@@ -33,7 +33,7 @@ To explore your REACTFOLIO masterpiece locally:
 2. **Navigate to Gallery:** Walk into the project directory.
 
    ```bash
-   cd reactfolio
+   cd Reactfolio
    ```
 
 3. **Add Ingredients:** Install the required dependencies with npm or yarn.
