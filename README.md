@@ -27,7 +27,7 @@ To explore your REACTFOLIO masterpiece locally:
 1. **Clone the Artistry:** Begin by cloning this repository to your local canvas using Git.
 
    ```bash
-   git clone https://github.com/your-username/reactfolio.git
+   git clone https://github.com/ChandrashekarM46/reactfolio.git
    ```
 
 2. **Navigate to Gallery:** Walk into the project directory.
